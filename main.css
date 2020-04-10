@@ -1,5 +1,7 @@
 header {
   text-align: center;
+  color: red;
+  border: solid red 2px;
 }
 
 .list {
